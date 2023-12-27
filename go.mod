@@ -8,7 +8,7 @@ require (
 	github.com/cloudquery/cq-provider-sdk v0.3.0-beta
 	github.com/fatih/color v1.10.0
 	github.com/fsnotify/fsnotify v1.4.9
-	github.com/go-git/go-git/v5 v5.4.2
+	github.com/go-git/go-git/v5 v5.11.0
 	github.com/google/go-github/v35 v35.1.0
 	github.com/hashicorp/go-hclog v0.16.1
 	github.com/hashicorp/go-plugin v1.4.1
@@ -22,11 +22,11 @@ require (
 	github.com/spf13/afero v1.1.2
 	github.com/spf13/cobra v1.1.3
 	github.com/spf13/viper v1.7.1
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.8.4
 	github.com/vbauerster/mpb/v6 v6.0.3
 	github.com/zclconf/go-cty v1.9.0
-	golang.org/x/crypto v0.0.0-20210506145944-38f3c27a63bf
-	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/term v0.0.0-20201126162022-7de9c90e9dd1
+	golang.org/x/crypto v0.16.0
+	golang.org/x/sync v0.3.0
+	golang.org/x/term v0.15.0
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0
 )
